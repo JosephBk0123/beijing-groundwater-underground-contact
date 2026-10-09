@@ -1,0 +1,15 @@
+﻿district,layer_no,layer_bucket,depth_scenario,entry_year,entry_order,previous_contact_state,next_exit_year,layer_fraction,crossing_quality,near_threshold_flag
+大兴区,4,B4,central,2020,1,no_contact,,0.009993,near_threshold_band,True
+延庆区,2,B2,central,2020,1,no_contact,,0.162319,standard,False
+怀柔区,3,B3,deep,2019,1,no_contact,,0.031538,standard,False
+房山区,2,B2,central,2012,1,no_contact,2014.0,0.392446,standard,False
+房山区,2,B2,central,2016,2,no_contact,2017.0,0.392446,near_threshold_band,True
+房山区,2,B2,central,2020,3,no_contact,,0.392446,near_threshold_band,True
+房山区,2,B2,deep,2011,1,no_contact,,0.392446,near_threshold_band,True
+房山区,3,B3,shallow,2012,1,no_contact,2015.0,0.09858,standard,False
+房山区,3,B3,shallow,2016,2,no_contact,,0.09858,standard,False
+房山区,3,B3,central,2006,1,no_contact,,0.09858,standard,False
+房山区,3,B3,deep,2006,1,no_contact,,0.09858,standard,False
+通州区,2,B2,shallow,2012,1,no_contact,2014.0,0.38115,near_threshold_band,True
+门头沟区,4,B4,central,2017,1,no_contact,2019.0,0.022179,near_threshold_band,True
+门头沟区,4,B4,deep,2016,1,no_contact,2019.0,0.022179,standard,False

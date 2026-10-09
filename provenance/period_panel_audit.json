@@ -1,0 +1,87 @@
+{
+  "source_file": "北京市平原区地下水_分区逐期面板_2019-2026_v3.csv",
+  "rows_periods": 277,
+  "districts": [
+    "东城",
+    "西城",
+    "朝阳",
+    "海淀",
+    "丰台",
+    "石景山",
+    "门头沟",
+    "房山",
+    "通州",
+    "顺义",
+    "昌平",
+    "大兴",
+    "怀柔",
+    "平谷",
+    "密云",
+    "延庆"
+  ],
+  "n_districts": 16,
+  "date_range": [
+    "2019-09-01",
+    "2026-09-07"
+  ],
+  "n_unique_months": 85,
+  "period_type_by_source": {
+    "docx_monthly_ref": "月报参照列反演",
+    "docx_monthly": "月报统计表",
+    "district_panel_raw": "周报/动态附件(原始)",
+    "gap_ocr_v2": "周报图片附件OCR补采",
+    "gap_ocr_v2_fix": "OCR补采-修复",
+    "gap_ocr_v2_fix2": "OCR补采-修复2",
+    "master_2026_event": "2026台风事件加密观测",
+    "master_2026_event+pdf_202609": "事件+PDF双源",
+    "pdf_202609": "2026-09官方PDF统计表"
+  },
+  "source_counts": {
+    "district_panel_raw": 137,
+    "gap_ocr_v2": 126,
+    "master_2026_event": 7,
+    "pdf_202609": 2,
+    "docx_monthly_ref": 1,
+    "docx_monthly": 1,
+    "gap_ocr_v2_fix": 1,
+    "gap_ocr_v2_fix2": 1,
+    "master_2026_event+pdf_202609": 1
+  },
+  "periods_per_month_distribution": {
+    "1": 23,
+    "2": 2,
+    "3": 3,
+    "4": 56,
+    "17": 1
+  },
+  "missing_periods_per_district": {
+    "东城": 12,
+    "西城": 13,
+    "朝阳": 1,
+    "海淀": 2,
+    "丰台": 0,
+    "石景山": 0,
+    "门头沟": 0,
+    "房山": 19,
+    "通州": 8,
+    "顺义": 0,
+    "昌平": 3,
+    "大兴": 4,
+    "怀柔": 2,
+    "平谷": 0,
+    "密云": 0,
+    "延庆": 0
+  },
+  "duplicate_dates": 0,
+  "schema_changes": "none detected: constant wide schema 观测日期/全市平均埋深/有效区数/来源/期名 + 16 district columns",
+  "units_and_direction": "埋深, m, positive down (per project 口径审计说明); D变大=下降, D变小=恢复",
+  "documented_regime_switches": [
+    "2020-07-28: 全市算术口径14区→11区 + 石景山井网更换",
+    "2025-04-14: 全市算术口径11区→13区(东西城纳入)",
+    "2019-09/10: 月报统计表口径",
+    "2019-11-28: 自动130眼井口径",
+    "2023-08: 23·7暴雨加密简报期"
+  ],
+  "fixed13_definition": "16区 minus {延庆, 门头沟, 石景山} — 附件1脚注'延庆、门头沟和石景山区不参加平均计算'; 已与既有'固定13区自算均值'列反算核对(max|diff|=0.005m, 为四舍五入差)",
+  "note": "东西城在2019-2020年14区口径期无观测(各缺12-13期); 房山缺19期"
+}

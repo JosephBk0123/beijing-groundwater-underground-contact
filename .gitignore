@@ -1,0 +1,9 @@
+__pycache__/
+*.py[cod]
+.venv/
+recomputed/
+matplotlib_config/
+verification_result.json
+revision_verification.json
+.DS_Store
+Thumbs.db

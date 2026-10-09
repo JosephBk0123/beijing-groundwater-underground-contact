@@ -1,0 +1,33 @@
+cff-version: 1.2.0
+message: "Please cite this version of the research data and code when reusing it."
+title: "Groundwater rebound and renewed contact with existing underground space in Beijing — data and code"
+type: software
+version: 1.0.0
+date-released: 2026-10-09
+authors:
+  - family-names: "Chen"
+    given-names: "Sida"
+  - family-names: "Wang"
+    given-names: "Ming"
+  - family-names: "Liu"
+    given-names: "Kai"
+  - family-names: "Lv"
+    given-names: "Bo"
+  - family-names: "Gao"
+    given-names: "Junlong"
+  - family-names: "Zhang"
+    given-names: "Jiawang"
+  - family-names: "Zhang"
+    given-names: "Jianxin"
+  - family-names: "Li"
+    given-names: "Kaiwen"
+repository-code: "https://github.com/JosephBk0123/beijing-groundwater-underground-contact"
+url: "https://github.com/JosephBk0123/beijing-groundwater-underground-contact"
+license:
+  - MIT
+  - CC-BY-4.0
+keywords:
+  - groundwater rebound
+  - Beijing
+  - underground space
+  - reproducible research

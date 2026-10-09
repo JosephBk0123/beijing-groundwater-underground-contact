@@ -1,0 +1,26 @@
+{
+  "python": "3.12.14",
+  "monthly_aggregation_valid_cells": 1337,
+  "monthly_encounter_scenario_rows_checked": 4011,
+  "historical_encounter_rows_checked": 630,
+  "recovery_window_valid_months": 1193,
+  "district_classes": {
+    "new_persistent_activation": 9,
+    "transient_only_contact": 1,
+    "no_contact_through_2025": 3,
+    "pre_existing_contact": 3
+  },
+  "first_layer_events": 24,
+  "first_run_statuses": {
+    "insufficient_followup": 5,
+    "transient_first_run": 12,
+    "confirmed_6_month": 7
+  },
+  "depth_sensitivity": {
+    "robust_no_contact": 459,
+    "depth_sensitive_contact": 325,
+    "robust_contact": 409
+  },
+  "historical_quality_flags_retained": 65,
+  "checks": "passed"
+}

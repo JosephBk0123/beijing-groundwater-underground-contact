@@ -1,0 +1,5 @@
+﻿stat,value,n,ties
+Spearman rho,-0.5871,16,"avg ranks; 2 tied encounter values (two C=1.0, four C=0.0)"
+Kendall tau-b,-0.438,16,tau-b tie-corrected
+concordant pairs,31.0,,
+discordant pairs,82.0,,

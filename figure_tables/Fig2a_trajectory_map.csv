@@ -1,0 +1,17 @@
+﻿district,district_en,in_historical_direct10,trajectory_class
+东城区,Dongcheng,False,
+西城区,Xicheng,False,
+朝阳区,Chaoyang,False,
+海淀区,Haidian,False,
+丰台区,Fengtai,False,
+石景山区,Shijingshan,False,
+门头沟区,Mentougou,True,intermittent_or_uncertain
+房山区,Fangshan,True,contact_reemerged
+通州区,Tongzhou,True,persistent_contact
+顺义区,Shunyi,True,persistent_no_contact
+昌平区,Changping,True,contact_lost_during_depletion
+大兴区,Daxing,True,contact_reemerged
+怀柔区,Huairou,True,contact_lost_during_depletion
+平谷区,Pinggu,True,persistent_no_contact
+密云区,Miyun,True,persistent_no_contact
+延庆区,Yanqing,True,persistent_contact

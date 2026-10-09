@@ -1,0 +1,11 @@
+﻿district,trajectory_class,deepest_year,deepest_depth_m,enc_frac_2000,enc_frac_at_deepest,enc_frac_2020
+大兴区,contact_reemerged,2009,19.3,0.087487,0.0,0.009993
+密云区,persistent_no_contact,2017,31.3,0.0,0.0,0.0
+平谷区,persistent_no_contact,2016,42.4,0.0,0.0,0.0
+延庆区,persistent_contact,2014,10.4,0.1827379999999999,0.020419,0.1827379999999999
+怀柔区,contact_lost_during_depletion,2014,22.6,0.387258,0.0,0.0
+房山区,contact_reemerged,2005,20.0,0.09858,0.0,0.491026
+昌平区,contact_lost_during_depletion,2014,32.3,0.001292,0.0,0.0
+通州区,persistent_contact,2019,8.2,0.437462,0.437462,0.437462
+门头沟区,intermittent_or_uncertain,2019,38.2,0.0,0.0,0.0
+顺义区,persistent_no_contact,2014,34.4,0.0,0.0,0.0

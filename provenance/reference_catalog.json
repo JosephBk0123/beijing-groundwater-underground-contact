@@ -1,0 +1,122 @@
+[
+  {
+    "number": 1,
+    "key": "jasechko2024",
+    "citation": "S. Jasechko, H. Seybold, D. Perrone, et al., Rapid groundwater decline and some cases of recovery in aquifers globally, Nature 625 (2024) 715-721. https://doi.org/10.1038/s41586-023-06879-8"
+  },
+  {
+    "number": 2,
+    "key": "jasechko2026",
+    "citation": "S. Jasechko, Global cases of groundwater recovery after interventions, Science 391 (2026) 1218-1228. https://doi.org/10.1126/science.adu1370"
+  },
+  {
+    "number": 3,
+    "key": "lavigna2022",
+    "citation": "F. La Vigna, Review: Urban groundwater issues and resource management, and their roles in the resilience of cities, Hydrogeol. J. 30 (2022) 1657-1683. https://doi.org/10.1007/s10040-022-02517-1"
+  },
+  {
+    "number": 4,
+    "key": "gattinoni2017",
+    "citation": "P. Gattinoni, L. Scesi, The groundwater rise in the urban area of Milan (Italy) and its interactions with underground structures and infrastructures, Tunn. Undergr. Space Technol. 62 (2017) 103-114. https://doi.org/10.1016/j.tust.2016.12.001"
+  },
+  {
+    "number": 5,
+    "key": "decaro2020",
+    "citation": "M. De Caro, G.B. Crosta, A. Previati, Modelling the interference of underground structures with groundwater flow and remedial solutions in Milan, Eng. Geol. 272 (2020) 105652. https://doi.org/10.1016/j.enggeo.2020.105652"
+  },
+  {
+    "number": 6,
+    "key": "allocca2022",
+    "citation": "V. Allocca, S. Coda, D. Calcaterra, P. De Vita, Groundwater rebound and flooding in the Naples' periurban area (Italy), J. Flood Risk Manag. 15 (2022) e12775. https://doi.org/10.1111/jfr3.12775"
+  },
+  {
+    "number": 7,
+    "key": "attard2016",
+    "citation": "G. Attard, T. Winiarski, Y. Rossier, L. Eisenlohr, Review: Impact of underground structures on the flow of urban groundwater, Hydrogeol. J. 24 (2016) 5-19. https://doi.org/10.1007/s10040-015-1317-3"
+  },
+  {
+    "number": 8,
+    "key": "lerner2002",
+    "citation": "D.N. Lerner, Identifying and quantifying urban recharge: a review, Hydrogeol. J. 10 (2002) 143-152. https://doi.org/10.1007/s10040-001-0177-1"
+  },
+  {
+    "number": 9,
+    "key": "long2020",
+    "citation": "D. Long, et al., South-to-North Water Diversion stabilizing Beijing's groundwater levels, Nat. Commun. 11 (2020) 3665. https://doi.org/10.1038/s41467-020-17428-6"
+  },
+  {
+    "number": 10,
+    "key": "long2025",
+    "citation": "D. Long, Y. Xu, Y. Cui, et al., Unprecedented large-scale aquifer recovery through human intervention, Nat. Commun. 16 (2025) 7296. https://doi.org/10.1038/s41467-025-62719-5"
+  },
+  {
+    "number": 11,
+    "key": "cai2016",
+    "citation": "X. Cai, L. Zhang, G. Guo, et al., New progress in the study of Quaternary geology in Beijing Plain, Geol. China 43 (2016) 1055-1066 (in Chinese with English abstract). https://doi.org/10.12029/gc20160327"
+  },
+  {
+    "number": 12,
+    "key": "beijing2025",
+    "citation": "D. Meng, B. Chen, H. Gong, et al., Land subsidence and rebound response to groundwater recovery in the Beijing Plain: A new hydrological perspective, J. Hydrol. Reg. Stud. 57 (2025) 102127. https://doi.org/10.1016/j.ejrh.2024.102127"
+  },
+  {
+    "number": 13,
+    "key": "qian2016",
+    "citation": "Q. Qian, Present state, problems and development trends of urban underground space in China, Tunn. Undergr. Space Technol. 55 (2016) 280-289. https://doi.org/10.1016/j.tust.2015.11.007"
+  },
+  {
+    "number": 14,
+    "key": "zhao2016",
+    "citation": "Y. Zhao, K. Wu, Quantitative evaluation of the potential of underground space resources in urban central areas based on multiple factors: a case study of Xicheng District, Beijing, Procedia Eng. 165 (2016) 610-621. https://doi.org/10.1016/j.proeng.2016.11.757"
+  },
+  {
+    "number": 15,
+    "key": "milan2022",
+    "citation": "D. Sartirana, M. Rotiroti, T. Bonomi, M. De Amicis, V. Nava, L. Fumagalli, C. Zanotti, Data-driven decision management of urban underground infrastructure through groundwater-level time-series cluster analysis: the case of Milan (Italy), Hydrogeol. J. 30 (2022) 1157-1177. https://doi.org/10.1007/s10040-022-02494-5"
+  },
+  {
+    "number": 16,
+    "key": "attard2017",
+    "citation": "G. Attard, Y. Rossier, T. Winiarski, L. Eisenlohr, Urban underground development confronted by the challenges of groundwater resources: Guidelines dedicated to the construction of underground structures in urban aquifers, Land Use Policy 64 (2017) 461-469. https://doi.org/10.1016/j.landusepol.2017.03.015"
+  },
+  {
+    "number": 17,
+    "key": "bulletins",
+    "citation": "Beijing Water Authority, Beijing Water Resources Bulletins, annual reports and historical series used for 1980-2025 [dataset], Beijing (various years, in Chinese). https://swj.beijing.gov.cn/zwgk/szygb/ (source portal accessed 30 September 2026; individual report/page provenance in SDC1)."
+  },
+  {
+    "number": 18,
+    "key": "yearbook",
+    "citation": "Beijing Water Authority, Beijing Water Statistical Yearbook 2025, Beijing, 2026, Table 1, pp. 1-2 (in Chinese). https://swj.beijing.gov.cn/zwgk/swtjnj/ (accessed 30 September 2026)."
+  },
+  {
+    "number": 19,
+    "key": "weekly",
+    "citation": "Beijing Water Authority, Beijing Plain Groundwater Dynamics: district depth tables accompanying weekly and monthly reports, 2019-2026 [dataset] (in Chinese). https://swj.beijing.gov.cn/zwgk/sjfb/dxsxx/ (source portal accessed 30 September 2026; analytical observation cutoff 7 September 2026)."
+  },
+  {
+    "number": 20,
+    "key": "acceptance",
+    "citation": "Beijing Municipal Commission of Housing and Urban-Rural Development, Joint Acceptance Opinion Notification Attachments (data-cleaned dataset) [dataset], Beijing Public Data Open Platform, archived 10,000-record extract, 2026 (in Chinese). https://data.beijing.gov.cn/ ; provider and fields listed in the 2025 open-data catalogue, item 384: https://data.beijing.gov.cn/docs/2025.pdf (catalogue accessed 30 September 2026)."
+  },
+  {
+    "number": 21,
+    "key": "cnlucc",
+    "citation": "X. Xu, China's Multi-period Land Use Remote Sensing Monitoring Dataset (CNLUCC) [dataset], Resource and Environment Science Data Registration and Publishing System, 2026. https://doi.org/10.12078/2026071401 . https://www.resdc.cn/DOI/DOI.aspx?DOIID=201 (accessed 30 September 2026; archived 1 km inputs for eight epochs, 1980-2020)."
+  },
+  {
+    "number": 22,
+    "key": "liu2014",
+    "citation": "J. Liu, W. Kuang, Z. Zhang, et al., Spatiotemporal characteristics, patterns, and causes of land-use changes in China since the late 1980s, J. Geogr. Sci. 24 (2014) 195-210. https://doi.org/10.1007/s11442-014-1082-6"
+  },
+  {
+    "number": 23,
+    "key": "scipy2020",
+    "citation": "P. Virtanen, R. Gommers, T.E. Oliphant, et al., SciPy 1.0: fundamental algorithms for scientific computing in Python, Nat. Methods 17 (2020) 261-272. https://doi.org/10.1038/s41592-019-0686-2"
+  },
+  {
+    "number": 24,
+    "key": "he2024",
+    "citation": "R. He, R.L.K. Tiong, Y. Yuan, L. Zhang, Enhancing resilience of urban underground space under floods: Current status and future directions, Tunn. Undergr. Space Technol. 147 (2024) 105674. https://doi.org/10.1016/j.tust.2024.105674"
+  }
+]

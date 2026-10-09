@@ -1,0 +1,9 @@
+{
+  "rank16_rho": -0.5871210761042421,
+  "rank16_tau_b": -0.4379659339401129,
+  "rank16_n": 16,
+  "R_LEA_escalation_rho": 0.13939393939393938,
+  "R_LEA_escalation_p": 0.7009318849100584,
+  "R_LEA_escalation_n": 10,
+  "reference_sensitivity_rank_rho_n10": 0.5272727272727272
+}

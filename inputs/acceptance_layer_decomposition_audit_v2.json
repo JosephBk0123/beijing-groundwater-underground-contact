@@ -1,0 +1,76 @@
+{
+  "revision_scope": "v2.1: 仅(A)重复单体审计去重 + (B)累计深层面积定义修正; 其余冻结规则不变",
+  "frozen_rules_unchanged": {
+    "district": "京竣联验（X）字解析; 经->大兴区(16区口径); district_raw保留; 未解析独立保留",
+    "area_field": "地下规模(仅平方米); 不用地下建筑面积; 非平方米单位排除不转换",
+    "decomposition": "a_{i,l}=A_i/n_i 等面积拆解; 层桶B1..B4+B5+; unknown_floor保留不删",
+    "depth_scenarios": {
+      "shallow": {
+        "1": 3.5,
+        "2": 7.0,
+        "3": 10.5,
+        "4": 14.0,
+        "5": 17.5
+      },
+      "central": {
+        "1": 5.0,
+        "2": 9.0,
+        "3": 13.0,
+        "4": 17.0,
+        "5": 21.0
+      },
+      "deep": {
+        "1": 5.5,
+        "2": 11.0,
+        "3": 16.5,
+        "4": 22.0,
+        "5": 27.5
+      }
+    },
+    "no_shrinkage": true
+  },
+  "duplicate_audit": {
+    "rules": "A4高置信(编号+编码+名称+面积+单位+层数全同且主要字段无冲突->保留更新时间最新); 否则review_required全保留",
+    "duplicate_candidate_groups": 25,
+    "duplicate_candidate_rows": 50,
+    "high_confidence_duplicate_groups": 25,
+    "high_confidence_duplicate_rows": 50,
+    "review_required_groups": 0,
+    "removed_rows": 25,
+    "removed_area_m2": 8348.0,
+    "removed_area_fraction_of_valid_total": 0.0007
+  },
+  "rows_total_raw": 10000,
+  "valid_layered_assets_after_dedup": 3264,
+  "unknown_floor_assets": 16,
+  "valid_area_m2_after_dedup": 11925297.0,
+  "unknown_floor_area_m2": 26598.0,
+  "conservation": {
+    "asset_level_max_abs_error_m2": 0.0,
+    "asset_level_conservation_pass": true,
+    "global_conservation_pass": true,
+    "B1_at_or_deeper_equals_valid_total_pass": true,
+    "cumulative_monotonicity_pass": true,
+    "district_fraction_range_pass": true
+  },
+  "cumulative_definition": {
+    "area_at_or_deeper_m2": "A_ge(d,l)=Σ_{j>=l}A(d,j) 含本层, 后续地下水遭遇分析 E_d(t)=Σ_l A_{d,l}·I(z_l>=D_d(t)) 查表用此字段",
+    "area_strictly_deeper_m2": "A_gt(d,l)=Σ_{j>l}A(d,j) 严格更深, 仅供信息, 不得作为主分析输入",
+    "deprecated_fields": {
+      "cumulative_deeper_area_m2": {
+        "deprecated": true
+      },
+      "cumulative_deeper_fraction": {
+        "deprecated": true
+      }
+    }
+  },
+  "citywide_layer_fraction_after_dedup": {
+    "B1": 0.565867,
+    "B2": 0.341621,
+    "B3": 0.080908,
+    "B4": 0.011605,
+    "B5+": 0.0
+  },
+  "usage_boundary": "本表仅估计现代地下空间深度组成p_d,l; 总存量由LUCC与选定基准控制"
+}

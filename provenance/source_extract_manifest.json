@@ -1,0 +1,215 @@
+{
+  "2001": {
+    "pdf_page": 7,
+    "type": "embedded_raster",
+    "xref": 89,
+    "size": [
+      1189,
+      769
+    ]
+  },
+  "2002": {
+    "pdf_page": 15,
+    "type": "embedded_raster",
+    "xref": 119,
+    "size": [
+      413,
+      261
+    ]
+  },
+  "2003": {
+    "pdf_page": 17,
+    "type": "embedded_raster",
+    "xref": 35,
+    "size": [
+      700,
+      960
+    ]
+  },
+  "2004": {
+    "pdf_page": 16,
+    "type": "embedded_raster",
+    "xref": 33,
+    "size": [
+      729,
+      1024
+    ]
+  },
+  "2006": {
+    "pdf_page": 15,
+    "type": "embedded_raster",
+    "xref": 30,
+    "size": [
+      700,
+      1019
+    ]
+  },
+  "2007": {
+    "pdf_page": 13,
+    "type": "embedded_raster",
+    "xref": 26,
+    "size": [
+      700,
+      1021
+    ]
+  },
+  "2008": {
+    "pdf_page": 12,
+    "type": "embedded_raster",
+    "xref": 85,
+    "size": [
+      2048,
+      1230
+    ]
+  },
+  "2009": {
+    "pdf_page": 12,
+    "type": "embedded_raster",
+    "xref": 85,
+    "size": [
+      2048,
+      1260
+    ]
+  },
+  "2010": {
+    "pdf_page": 12,
+    "type": "embedded_raster",
+    "xref": 85,
+    "size": [
+      2048,
+      1261
+    ]
+  },
+  "2012": {
+    "pdf_page": 14,
+    "type": "page_render",
+    "clip": [
+      30.0,
+      365.0,
+      570.0,
+      705.0
+    ],
+    "render_scale": 3
+  },
+  "2013": {
+    "pdf_page": 13,
+    "type": "embedded_raster",
+    "xref": 111,
+    "size": [
+      555,
+      379
+    ]
+  },
+  "2014": {
+    "pdf_page": 13,
+    "type": "embedded_raster",
+    "xref": 113,
+    "size": [
+      2048,
+      1434
+    ]
+  },
+  "2015": {
+    "pdf_page": 13,
+    "type": "embedded_raster",
+    "xref": 119,
+    "size": [
+      867,
+      556
+    ]
+  },
+  "2016": {
+    "pdf_page": 12,
+    "type": "page_render",
+    "clip": [
+      55.0,
+      50.0,
+      530.0,
+      346.0
+    ],
+    "render_scale": 3
+  },
+  "2017": {
+    "pdf_page": 13,
+    "type": "embedded_raster",
+    "xref": 108,
+    "size": [
+      1743,
+      862
+    ]
+  },
+  "2018": {
+    "pdf_page": 13,
+    "type": "embedded_raster",
+    "xref": 114,
+    "size": [
+      1743,
+      1057
+    ]
+  },
+  "2019": {
+    "pdf_page": 13,
+    "type": "embedded_raster",
+    "xref": 102,
+    "size": [
+      554,
+      284
+    ]
+  },
+  "2020": {
+    "pdf_page": 13,
+    "type": "page_render",
+    "clip": [
+      45.0,
+      45.0,
+      545.0,
+      357.0
+    ],
+    "render_scale": 3
+  },
+  "2021": {
+    "pdf_page": 13,
+    "type": "embedded_raster",
+    "xref": 133,
+    "size": [
+      1087,
+      615
+    ]
+  },
+  "2022": {
+    "pdf_page": 13,
+    "type": "embedded_raster",
+    "xref": 130,
+    "size": [
+      600,
+      282
+    ]
+  },
+  "2023": {
+    "pdf_page": 13,
+    "type": "embedded_raster",
+    "xref": 134,
+    "size": [
+      937,
+      441
+    ]
+  },
+  "2024": {
+    "pdf_page": 13,
+    "type": "embedded_raster",
+    "xref": 134,
+    "size": [
+      979,
+      656
+    ]
+  },
+  "2025": {
+    "pdf_page": 13,
+    "type": "embedded_raster",
+    "xref": 136,
+    "size": [
+      695,
+      413
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+﻿scenario,duration_months,new_persistent_count,new_persistent_districts,class_counts
+shallow,3,8,东城区；丰台区；大兴区；延庆区；怀柔区；昌平区；海淀区；西城区,"{""new_persistent_activation"": 8, ""no_observed_contact"": 4, ""pre_existing_contact"": 2, ""transient_only_contact"": 1, ""other_observed_contact"": 1}"
+shallow,6,8,东城区；丰台区；大兴区；延庆区；怀柔区；昌平区；海淀区；西城区,"{""new_persistent_activation"": 8, ""no_observed_contact"": 4, ""pre_existing_contact"": 2, ""transient_only_contact"": 1, ""other_observed_contact"": 1}"
+shallow,9,7,丰台区；大兴区；延庆区；怀柔区；昌平区；海淀区；西城区,"{""other_observed_contact"": 1, ""new_persistent_activation"": 7, ""no_observed_contact"": 4, ""pre_existing_contact"": 2, ""transient_only_contact"": 2}"
+shallow,12,7,丰台区；大兴区；延庆区；怀柔区；昌平区；海淀区；西城区,"{""other_observed_contact"": 1, ""new_persistent_activation"": 7, ""no_observed_contact"": 4, ""pre_existing_contact"": 2, ""transient_only_contact"": 2}"
+central,3,9,东城区；丰台区；大兴区；怀柔区；昌平区；海淀区；石景山区；西城区；门头沟区,"{""new_persistent_activation"": 9, ""transient_only_contact"": 1, ""no_observed_contact"": 3, ""pre_existing_contact"": 3}"
+central,6,9,东城区；丰台区；大兴区；怀柔区；昌平区；海淀区；石景山区；西城区；门头沟区,"{""new_persistent_activation"": 9, ""transient_only_contact"": 1, ""no_observed_contact"": 3, ""pre_existing_contact"": 3}"
+central,9,8,东城区；丰台区；大兴区；怀柔区；昌平区；海淀区；西城区；门头沟区,"{""new_persistent_activation"": 8, ""transient_only_contact"": 1, ""no_observed_contact"": 3, ""pre_existing_contact"": 3, ""other_observed_contact"": 1}"
+central,12,7,东城区；丰台区；大兴区；怀柔区；昌平区；海淀区；西城区,"{""new_persistent_activation"": 7, ""transient_only_contact"": 1, ""no_observed_contact"": 3, ""pre_existing_contact"": 3, ""other_observed_contact"": 2}"
+deep,3,11,东城区；密云区；平谷区；怀柔区；昌平区；朝阳区；海淀区；石景山区；西城区；门头沟区；顺义区,"{""new_persistent_activation"": 11, ""pre_existing_contact"": 5}"
+deep,6,9,东城区；密云区；怀柔区；昌平区；朝阳区；海淀区；石景山区；西城区；门头沟区,"{""new_persistent_activation"": 9, ""pre_existing_contact"": 5, ""other_observed_contact"": 2}"
+deep,9,9,东城区；密云区；怀柔区；昌平区；朝阳区；海淀区；石景山区；西城区；门头沟区,"{""new_persistent_activation"": 9, ""pre_existing_contact"": 5, ""other_observed_contact"": 2}"
+deep,12,9,东城区；密云区；怀柔区；昌平区；朝阳区；海淀区；石景山区；西城区；门头沟区,"{""new_persistent_activation"": 9, ""pre_existing_contact"": 5, ""other_observed_contact"": 2}"

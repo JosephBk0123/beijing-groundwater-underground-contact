@@ -1,0 +1,128 @@
+{
+  "scope": "Existing-data organization; five explicit-name assignment sensitivity, not coordinate-verified harmonization or independent external validation",
+  "sample_classification": "Not undertaken; excluded from this round by author instruction",
+  "external_validation": "122-well table already held; common official monitoring provenance, not newly independent external validation",
+  "economic_zone_records": 203,
+  "name_supported_assignment_records": 5,
+  "remaining_location_unverified_records": 198,
+  "transferred_area_m2": 1566,
+  "district_total_areas": {
+    "大兴区": {
+      "old": 3313308.0,
+      "new": 3311742.0
+    },
+    "通州区": {
+      "old": 1488019.0,
+      "new": 1489585.0
+    }
+  },
+  "assignment_max_absolute_change_pp": 0.045990387375866026,
+  "assignment_max_change_by_district": {
+    "大兴区": 0.022466149666694468,
+    "通州区": 0.045990387375866026
+  },
+  "binary_contact_and_dates_unchanged_in_five_record_comparison": true,
+  "duration_rows": 192,
+  "duration_summary_rows": 12,
+  "layer_first_run_rows": 96,
+  "duration_counts": [
+    {
+      "scenario": "shallow",
+      "duration_months": 3,
+      "new_persistent_count": 8,
+      "new_persistent_districts": "东城区；丰台区；大兴区；延庆区；怀柔区；昌平区；海淀区；西城区",
+      "class_counts": "{\"new_persistent_activation\": 8, \"no_observed_contact\": 4, \"pre_existing_contact\": 2, \"transient_only_contact\": 1, \"other_observed_contact\": 1}"
+    },
+    {
+      "scenario": "shallow",
+      "duration_months": 6,
+      "new_persistent_count": 8,
+      "new_persistent_districts": "东城区；丰台区；大兴区；延庆区；怀柔区；昌平区；海淀区；西城区",
+      "class_counts": "{\"new_persistent_activation\": 8, \"no_observed_contact\": 4, \"pre_existing_contact\": 2, \"transient_only_contact\": 1, \"other_observed_contact\": 1}"
+    },
+    {
+      "scenario": "shallow",
+      "duration_months": 9,
+      "new_persistent_count": 7,
+      "new_persistent_districts": "丰台区；大兴区；延庆区；怀柔区；昌平区；海淀区；西城区",
+      "class_counts": "{\"other_observed_contact\": 1, \"new_persistent_activation\": 7, \"no_observed_contact\": 4, \"pre_existing_contact\": 2, \"transient_only_contact\": 2}"
+    },
+    {
+      "scenario": "shallow",
+      "duration_months": 12,
+      "new_persistent_count": 7,
+      "new_persistent_districts": "丰台区；大兴区；延庆区；怀柔区；昌平区；海淀区；西城区",
+      "class_counts": "{\"other_observed_contact\": 1, \"new_persistent_activation\": 7, \"no_observed_contact\": 4, \"pre_existing_contact\": 2, \"transient_only_contact\": 2}"
+    },
+    {
+      "scenario": "central",
+      "duration_months": 3,
+      "new_persistent_count": 9,
+      "new_persistent_districts": "东城区；丰台区；大兴区；怀柔区；昌平区；海淀区；石景山区；西城区；门头沟区",
+      "class_counts": "{\"new_persistent_activation\": 9, \"transient_only_contact\": 1, \"no_observed_contact\": 3, \"pre_existing_contact\": 3}"
+    },
+    {
+      "scenario": "central",
+      "duration_months": 6,
+      "new_persistent_count": 9,
+      "new_persistent_districts": "东城区；丰台区；大兴区；怀柔区；昌平区；海淀区；石景山区；西城区；门头沟区",
+      "class_counts": "{\"new_persistent_activation\": 9, \"transient_only_contact\": 1, \"no_observed_contact\": 3, \"pre_existing_contact\": 3}"
+    },
+    {
+      "scenario": "central",
+      "duration_months": 9,
+      "new_persistent_count": 8,
+      "new_persistent_districts": "东城区；丰台区；大兴区；怀柔区；昌平区；海淀区；西城区；门头沟区",
+      "class_counts": "{\"new_persistent_activation\": 8, \"transient_only_contact\": 1, \"no_observed_contact\": 3, \"pre_existing_contact\": 3, \"other_observed_contact\": 1}"
+    },
+    {
+      "scenario": "central",
+      "duration_months": 12,
+      "new_persistent_count": 7,
+      "new_persistent_districts": "东城区；丰台区；大兴区；怀柔区；昌平区；海淀区；西城区",
+      "class_counts": "{\"new_persistent_activation\": 7, \"transient_only_contact\": 1, \"no_observed_contact\": 3, \"pre_existing_contact\": 3, \"other_observed_contact\": 2}"
+    },
+    {
+      "scenario": "deep",
+      "duration_months": 3,
+      "new_persistent_count": 11,
+      "new_persistent_districts": "东城区；密云区；平谷区；怀柔区；昌平区；朝阳区；海淀区；石景山区；西城区；门头沟区；顺义区",
+      "class_counts": "{\"new_persistent_activation\": 11, \"pre_existing_contact\": 5}"
+    },
+    {
+      "scenario": "deep",
+      "duration_months": 6,
+      "new_persistent_count": 9,
+      "new_persistent_districts": "东城区；密云区；怀柔区；昌平区；朝阳区；海淀区；石景山区；西城区；门头沟区",
+      "class_counts": "{\"new_persistent_activation\": 9, \"pre_existing_contact\": 5, \"other_observed_contact\": 2}"
+    },
+    {
+      "scenario": "deep",
+      "duration_months": 9,
+      "new_persistent_count": 9,
+      "new_persistent_districts": "东城区；密云区；怀柔区；昌平区；朝阳区；海淀区；石景山区；西城区；门头沟区",
+      "class_counts": "{\"new_persistent_activation\": 9, \"pre_existing_contact\": 5, \"other_observed_contact\": 2}"
+    },
+    {
+      "scenario": "deep",
+      "duration_months": 12,
+      "new_persistent_count": 9,
+      "new_persistent_districts": "东城区；密云区；怀柔区；昌平区；朝阳区；海淀区；石景山区；西城区；门头沟区",
+      "class_counts": "{\"new_persistent_activation\": 9, \"pre_existing_contact\": 5, \"other_observed_contact\": 2}"
+    }
+  ],
+  "protected_input_sha256": {
+    "local_raw_workspace\\2026.09.04 自然基金委评审材料准备\\Multi-scale data assimilation reveals dynamic antecedent conditions for compound rainfall–groundwater hazards\\data\\地下空间部分\\acceptance_asset_layer_long_v2.csv": "eab60224df1d508f1e932e237cccf8871b9c6755aeb8414ebfe5eacafc76529c",
+    "local_raw_workspace\\outputs\\NHR_revision_v2_20260930\\SDC1_NHR_v2_20260930\\inputs\\district_depth_profile_v2.csv": "75ad4d36616a1a7e43125ebc57a7390759ca866a94be8ff41f4b8e2547c10631",
+    "local_raw_workspace\\outputs\\NHR_revision_v2_20260930\\SDC1_NHR_v2_20260930\\inputs\\groundwater_monthly.csv": "75d2bff99322695fa7da22abf46fade4c18a76e011af939c7de61aa29b4324b5",
+    "local_raw_workspace\\Nature_results_freeze_v1\\_scripts\\fig4_spatial_and_s7_s9.py": "afa4adf0444d36406e22c36c07bb791745fc831d650d73f3b5331ecda4c977bb",
+    "local_raw_workspace\\outputs\\NHR_revision_v2_20260930\\01_NHR_Manuscript_reorganized_humanized.docx": "151f992ba5dfde294409251a08f4a8ecb14d96fb3c7daf57598ef0c7a2ac75c3",
+    "local_raw_workspace\\outputs\\NHR_revision_v2_20260930\\01_NHR_Manuscript_reviewer_revision_working.docx": "990217f6e557f3a96e5b4e4227a5a643005c78e38b09dc2f568f657ba0094383"
+  },
+  "checks": "passed: conservation, frozen profile reproduction, all 12 prior district sets, official six-month class totals, missing-month continuity",
+  "record_output": "local_raw_workspace\\outputs\\NHR_revision_v2_20260930\\修改v1\\审稿意见处理与拟修改文本_v1.docx",
+  "record_backup": "local_raw_workspace\\outputs\\NHR_revision_v2_20260930\\_work\\修改v1\\审稿记录_范围调整及时间整理前_20261008.docx",
+  "record_sha256": "13b7fd82ab8721c3d7b39a1c0d505537edef8b8223cd9d2b5847c8e54ca8f3f2",
+  "word_rendered_pages": 30,
+  "visual_qa": "passed: Word opened/exported; added pages 28-30 inspected; tables readable, no clipping or overflow"
+}

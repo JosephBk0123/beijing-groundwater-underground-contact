@@ -1,0 +1,13 @@
+﻿case_id,delta_m,supported_floors,mean_absolute_change_pp,max_absolute_change_pp,binary_contact_changed_months,normalization
+E1,-0.3,3,3.399769404861693,81.7262,50,"original total district layer area; unsourced layers excluded from both comparators, no renormalization"
+E1,0.0,3,2.101363537300922,81.7262,37,"original total district layer area; unsourced layers excluded from both comparators, no renormalization"
+E1,0.3,3,1.1336097233864206,81.7262,26,"original total district layer area; unsourced layers excluded from both comparators, no renormalization"
+E2,-0.3,3,2.3417689857502095,81.7262,22,"original total district layer area; unsourced layers excluded from both comparators, no renormalization"
+E2,0.0,3,1.3939685666387263,81.7262,29,"original total district layer area; unsourced layers excluded from both comparators, no renormalization"
+E2,0.3,3,1.1341782900251465,81.7262,43,"original total district layer area; unsourced layers excluded from both comparators, no renormalization"
+E3,-0.3,2,1.834323134953898,81.7262,57,"original total district layer area; unsourced layers excluded from both comparators, no renormalization"
+E3,0.0,2,2.6578614417435036,81.7262,87,"original total district layer area; unsourced layers excluded from both comparators, no renormalization"
+E3,0.3,2,3.228544677284157,81.7262,107,"original total district layer area; unsourced layers excluded from both comparators, no renormalization"
+E4,-0.3,3,1.3009866722548198,81.7262,63,"original total district layer area; unsourced layers excluded from both comparators, no renormalization"
+E4,0.0,3,0.9644309304274937,81.7262,53,"original total district layer area; unsourced layers excluded from both comparators, no renormalization"
+E4,0.3,3,0.8759261525565801,81.7262,39,"original total district layer area; unsourced layers excluded from both comparators, no renormalization"

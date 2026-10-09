@@ -1,0 +1,23 @@
+{
+  "status": "passed",
+  "python": "3.12.14",
+  "numpy": "2.3.5",
+  "pandas": "3.0.1",
+  "csv_regressions": {
+    "仅资料覆盖层级的对照.csv": 12,
+    "全部27组深度配置.csv": 27,
+    "工程几何与原阈值对照.csv": 33,
+    "年度接触比例与时间指数全部配置.csv": 5670,
+    "年度首次观测接触对照.csv": 270,
+    "扩展140组参数网格.csv": 140,
+    "月度接触比例全部配置.csv": 32211,
+    "逐区接触时间与持续分类.csv": 1728,
+    "逐层首次接触与连续段.csv": 1539,
+    "配置影响汇总.csv": 27
+  },
+  "duration_classes_checked": 192,
+  "assignment_max_change_pp": 0.045990387375866026,
+  "city_proxy_May2004": 0.805765595463138,
+  "city_proxy_2015": 0.9092627599243857,
+  "scope": "Tabular reproduction and frozen-output regression; not independent physical validation or a raw GIS rebuild."
+}

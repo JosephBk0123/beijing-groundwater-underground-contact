@@ -1,0 +1,5 @@
+﻿group,metric,n,median,q1,q3,mean
+central_six,R_LEA,5,1.17,0.891,2.244,1.544
+central_six,delta_C_RE,6,17.77,7.117,19.948,14.015
+noncentral,R_LEA,5,0.462,0.098,0.512,0.426
+noncentral,delta_C_RE,10,6.545,0.555,38.578,29.012

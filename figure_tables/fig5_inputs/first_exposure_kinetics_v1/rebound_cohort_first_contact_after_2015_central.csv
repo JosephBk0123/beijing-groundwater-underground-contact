@@ -1,0 +1,17 @@
+﻿district,district_en,contact_state_at_2015_12,state_evidence,first_contact_after_2015,first_contact_layers,C_at_first_pct,C_2025_12_pct,rise_pp_per_year,months_since_first,granularity_at_first,status
+门头沟区,Mentougou,no_contact,historical C(2015)=0.0000,2017-12,B4,2.22,2.22,0.0,96.0,annual,persistent_at_2025_12
+大兴区,Daxing,no_contact,historical C(2015)=0.0000,2020-02,B4,1.0,8.75,1.33,70.0,monthly,persistent_at_2025_12
+丰台区,Fengtai,no_contact_assumed,core district: no pre-2019 observation; C=0 at series start under depleted regime,2021-10,B4,3.18,17.99,3.55,50.0,monthly,persistent_at_2025_12
+怀柔区,Huairou,no_contact,historical C(2015)=0.0000,2021-10,B3,3.15,38.73,8.54,50.0,monthly,persistent_at_2025_12
+西城区,Xicheng,no_contact_assumed,core district: no pre-2019 observation; C=0 at series start under depleted regime,2023-01,B4,7.2,24.31,5.87,35.0,monthly,persistent_at_2025_12
+海淀区,Haidian,no_contact_assumed,core district: no pre-2019 observation; C=0 at series start under depleted regime,2023-01,B4,1.46,20.6,6.56,35.0,monthly,persistent_at_2025_12
+东城区,Dongcheng,no_contact_assumed,core district: no pre-2019 observation; C=0 at series start under depleted regime,2024-03,B4,4.19,17.55,7.63,21.0,monthly,persistent_at_2025_12
+昌平区,Changping,no_contact,historical C(2015)=0.0000,2024-03,B4,0.13,4.34,2.41,21.0,monthly,persistent_at_2025_12
+石景山区,Shijingshan,no_contact_assumed,core district: no pre-2019 observation; C=0 at series start under depleted regime,2025-05,B4,3.64,3.64,0.0,7.0,monthly,persistent_at_2025_12
+密云区,Miyun,no_contact,historical C(2015)=0.0000,2025-09,B3,8.08,0.0,-32.32,3.0,monthly,transient_ended
+朝阳区,Chaoyang,no_contact_assumed,core district: no pre-2019 observation; C=0 at series start under depleted regime,,,,0.0,,,,no_contact_through_2025
+房山区,Fangshan,in_contact (pre-existing),historical C(2015)=0.0986,,,,100.0,,,,excluded_pre_existing_contact
+通州区,Tongzhou,in_contact (pre-existing),historical C(2015)=0.4375,,,,43.75,,,,excluded_pre_existing_contact
+顺义区,Shunyi,no_contact,historical C(2015)=0.0000,,,,0.0,,,,no_contact_through_2025
+平谷区,Pinggu,no_contact,historical C(2015)=0.0000,,,,0.0,,,,no_contact_through_2025
+延庆区,Yanqing,in_contact (pre-existing),historical C(2015)=0.0204,,,,100.0,,,,excluded_pre_existing_contact

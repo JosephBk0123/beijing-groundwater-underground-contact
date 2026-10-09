@@ -1,0 +1,4 @@
+﻿robustness_class,count,fraction
+depth_sensitive_contact,325,0.27242246437552387
+robust_contact,409,0.34283319362950543
+robust_no_contact,459,0.38474434199497065

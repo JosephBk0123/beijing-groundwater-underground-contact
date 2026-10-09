@@ -1,0 +1,68 @@
+[
+  {
+    "case_id": "E1",
+    "case_name": "学院南路62号科研楼",
+    "heights": [
+      5.75,
+      4,
+      4
+    ],
+    "reported_floor_elevations": null,
+    "indoor_outdoor_difference_m": 0.3,
+    "zero_absolute_elevation_m": 52.14,
+    "base_delta_m": 0.3,
+    "source_url": "https://zjw.beijing.gov.cn/bjjs/kjcxytg/jzyxjsyysfgc/ysgs/743807857/index.shtml",
+    "source_status": "official project overview; first-floor datum and indoor-above-outdoor direction are explicit model assumptions",
+    "source_project_name": "科研楼等3项（北京城建集团有限责任公司学院南路62号科研楼项目）",
+    "source_entry_number": 2
+  },
+  {
+    "case_id": "E2",
+    "case_name": "凯恒中心",
+    "heights": [
+      5.7,
+      3.3,
+      3.3
+    ],
+    "reported_floor_elevations": null,
+    "indoor_outdoor_difference_m": null,
+    "zero_absolute_elevation_m": null,
+    "base_delta_m": 0,
+    "source_url": "https://zjw.beijing.gov.cn/bjjs/kjcxytg/jzyxjsyysfgc/ysgs/743807698/index.shtml",
+    "source_status": "official storey heights; outdoor datum not supplied; zero-offset conversion is conditional"
+  },
+  {
+    "case_id": "E3",
+    "case_name": "金方大厦",
+    "heights": [
+      3.35,
+      4.2
+    ],
+    "reported_floor_elevations": [
+      -3.35,
+      -7.55
+    ],
+    "indoor_outdoor_difference_m": null,
+    "zero_absolute_elevation_m": null,
+    "base_delta_m": 0,
+    "source_url": "https://static.cninfo.com.cn/finalpage/2013-01-08/61992737.PDF",
+    "source_status": "appraisal PDF page 20; reported floor elevations verified, outdoor datum and floor surface unresolved"
+  },
+  {
+    "case_id": "E4",
+    "case_name": "国家知识产权局专利局专利审查协作北京中心专利大厦（北京市丰台区汽车博物馆南路2号）",
+    "heights": [
+      4,
+      5.1,
+      5.1
+    ],
+    "reported_floor_elevations": null,
+    "indoor_outdoor_difference_m": 0.3,
+    "zero_absolute_elevation_m": 47.2,
+    "base_delta_m": 0.3,
+    "source_url": "https://zjw.beijing.gov.cn/bjjs/kjcxytg/jzyxjsyysfgc/ysgs/743807857/index.shtml",
+    "source_status": "official project overview; first-floor datum and indoor-above-outdoor direction are explicit model assumptions",
+    "source_project_name": "专利技术研发中心研发用房建设项目",
+    "source_entry_number": 1
+  }
+]
