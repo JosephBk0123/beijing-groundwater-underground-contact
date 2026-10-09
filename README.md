@@ -2,7 +2,7 @@
 
 Data and code for *Groundwater rebound and renewed contact with existing underground space in Beijing*.
 
-Version v1.0.0, based on supplementary archive `NHR-R1-20261009`. Prepared 9 October 2026. Correspondence: Ming Wang, wangming@bnu.edu.cn.
+Version v1.0.0, based on supplementary archive `NHR-R1-20261009`. Prepared 9 October 2026.
 
 The primary recovery window ends in December 2025. January to September 2026 is a separate descriptive extension; September contains observations only through 7 September.
 
